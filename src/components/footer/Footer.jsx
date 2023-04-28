@@ -12,17 +12,17 @@ function Footer() {
 
             <ul className="footer__list">
                 <li>
-                    <a href="#about" className="footer__link">-About &nbsp; &nbsp; &nbsp; </a>
+                    <a href="#about" className="footer__link">About &nbsp; &nbsp; &nbsp; </a>
                 </li>
 
                 <li>
-                    <a href="#portfolio" className="footer__link">-Projects&nbsp; &nbsp; &nbsp;
+                    <a href="#portfolio" className="footer__link">Projects&nbsp; &nbsp; &nbsp;
                         
                     </a>
                 </li>
 
                 <li>
-                    <a href="#testimonials" className="footer__link">-Testimonials 
+                    <a href="#testimonials" className="footer__link">Testimonials 
                         
                     </a>
                 </li>
